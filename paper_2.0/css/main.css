@@ -1,0 +1,112 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body,html{
+	height: 100%;
+	width: 100%;
+	background-color: rgb(250, 249, 222);
+	/*background-color: white;*/
+}
+#table{
+	border:none;
+}
+#table td:nth-child(3){
+	color: blue;
+	font-size: 1.1rem;
+}
+
+#table td:nth-child(n+4){
+	color: black;
+	font-size: 0.8rem;
+}
+
+#table td:nth-child(-n+2){
+	color: black;
+	font-size: 0.8rem;
+}
+
+#table thead{
+	border-left: none;
+	border-right: none;
+	border-top: 2px solid #eee;
+	border-bottom: 2px solid #eee;
+}
+#table th{
+	border:none;
+}
+#table td{
+	border:none;
+	border-bottom: 1px solid #eee;
+}
+
+.link{
+	width: 1.5rem;
+	height: 1.5rem;
+}
+
+.rank_star>i:nth-child(n+3):nth-child(-n+4){
+	color: rgb(255,165,0);
+}
+.rank_star>i:nth-child(5){
+	color: red;
+}
+.note_btn{
+	float: left;
+}
+.note_box{
+	float: left;
+	margin: 0;
+	margin-left: 15px;
+	padding: 15px;
+	width: calc(50% - 40px);
+	font-size: 1.1rem;
+}
+
+.note_box img{
+	margin: 0 auto;
+	padding: 0;
+}
+.flag_img{
+	height: 20px;
+	width:  20px;
+}
+
+.chart_items{
+	display: inline-block;
+	border: 2px solid #eee;
+	background-color: rgb(250, 249, 222);
+}
+
+#panel{
+	padding:10px;
+	position: fixed;
+	top: 60px;
+	left: 0.5%;
+	width: 300px;
+	border: 2px solid #eee;
+	background-color: white;
+}
+tbody>tr>td:nth-child(3){
+	color: red;
+	font-size: 5rem;
+}
+.bootstrap-table .table{
+   table-layout:fixed;
+}
+.table-hover > tbody > tr:hover > td {
+	background-color: rgb(255 255 255);
+}
+/*表格隐藏滚动条*/
+.fixed-table-container {
+	width: calc(100% + 20px);
+}
+
+.txtab1 {
+	display:inline-block;
+	width:30px;
+}
+.txtab2 {
+	display:inline-block;
+	width:60px;
+}
