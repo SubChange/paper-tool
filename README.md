@@ -2,10 +2,8 @@
 > ## :star: :star: :star: :star: :star:
 > ## Now, this page is avaiable in [paper_tool](https://subce.gitee.io/htmls/slide_news/slide1/paperdisp.html) 
 > ## Operation
-> ## Select ==Docs== ---> ==Open== ---> =="select a \*.bib file such as created by mendeley"==
-
-
-
+> ## Select **Docs** ---> **Open** ---> **"select a \*.bib file such as created by mendeley"**
+> ## Note the online page is only to show paper list in \*.bib depend on mendeley. You can also use the local version in this depository. But, the depository will be not updated!
 
 ### An app to manage papers based on web
 
