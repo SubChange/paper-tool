@@ -1,3 +1,12 @@
+
+> ## :star: :star: :star: :star: :star:
+> ## Now, this page is avaiable in [paper_tool](https://subce.gitee.io/htmls/slide_news/slide1/paperdisp.html) 
+> ## Operation
+> ## Select ==Docs== ---> ==Open== ---> =="select a \*.bib file such as created by mendeley"==
+
+
+
+
 ### An app to manage papers based on web
 
 #### 1. Dependencies
